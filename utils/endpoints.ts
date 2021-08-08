@@ -1,4 +1,4 @@
-const RESULT_LIMIT: number = 10;
+const RESULT_LIMIT: number = 25;
 
 // Search by query
 export const getSongSearchUrl = (song_name: string): string => {
