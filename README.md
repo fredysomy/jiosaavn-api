@@ -58,7 +58,7 @@ An Unofficial API for JioSaavn that allows downloading songs in 320kbps quality 
 **You can directly deploy this repo to your Vercel account by clicking the button below.**
 <br>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/sumitkolhe/jiosaavn-api)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/fredysomy/jiosaavn-api)
 
 ## ✍️ Authors
 
