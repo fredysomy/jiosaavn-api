@@ -2,7 +2,7 @@ const RESULT_LIMIT: number = 25;
 
 // Search by query
 export const getSongSearchUrl = (song_name: string): string => {
-  return `https://www.jiosaavn.com/api.php?p=1&q=${song_name}&_format=json&_marker=0&api_version=4&ctx=android&n=20&__call=search.getResults`;
+  return `https://www.jiosaavn.com/api.php?__call=search.getResults&_format=json&n=${RESULT_LIMIT}&p=1&_marker=0&ctx=android&q=${song_name}`;
   
 };
 
